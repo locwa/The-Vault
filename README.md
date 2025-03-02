@@ -26,4 +26,4 @@ php artisan migrate
    
 6. Open the public folder of `The-Vault-Collection-Customer-Facing` or `The-Vault-Collection-Portal` in your web server
 
-7. To register an account, go to <link to The-Vault-Collection-Portal>/public/register
+7. To register an account, go to [link to The-Vault-Collection-Portal]/public/register
