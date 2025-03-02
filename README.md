@@ -2,8 +2,6 @@
 
 This is a sample project for a car dealership website using MySQL and Laravel.
 
-Sample Photos for SQL tables (Import all tables from The-Vault-SQL-Tables after migration): https://drive.google.com/uc?export=download&id=1j6vKoP436jSr_F1gFgjqdkwPAqjljyti
-
 ## Installation
 
 > We assume that you have a web server and MySQL installed in your device
@@ -23,5 +21,9 @@ npm install
 php artisan migrate
 ```
 4. Repeat steps 2 and 3 for `The-Vault-Collection-Portal`
+
+5. (OPTIONAL) Import all tables from The-Vault-SQL-Tables after migration to use the sample photos here : https://drive.google.com/uc?export=download&id=1j6vKoP436jSr_F1gFgjqdkwPAqjljyti
    
-5. Open the public folder of `The-Vault-Collection-Customer-Facing` or `The-Vault-Collection-Portal` in your web server
+6. Open the public folder of `The-Vault-Collection-Customer-Facing` or `The-Vault-Collection-Portal` in your web server
+
+7. To register an account, go to <link to The-Vault-Collection-Portal>/public/register
