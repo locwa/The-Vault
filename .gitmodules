@@ -1,0 +1,6 @@
+[submodule "The-Vault-Collection-Customer-Facing"]
+	path = The-Vault-Collection-Customer-Facing
+	url = https://github.com/locwa/The-Vault-Collection-Customer-Facing.git
+[submodule "The-Vault-Collection-Portal"]
+	path = The-Vault-Collection-Portal
+	url = https://github.com/locwa/The-Vault-Collection-Portal.git
