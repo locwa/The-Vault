@@ -1,4 +1,4 @@
-# CarzCo (A sample car dealership website)
+# The Vault (A sample car dealership website)
 
 This is a sample project for a car dealership website using MySQL and Laravel.
 
